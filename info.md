@@ -10,4 +10,4 @@ git status                                            //Zeigt den status der Rep
 git commit -m <commitname>                            //Commitet die änderungen unter einem gegebenen namen
 git branch -M <branchname>                            //Wechselt auf den angegebenen Branch
 git remote add <remotename> <github repository link>  //Erstellt eine Remote verbindung zur z.B. Github Repository
-git push -U <remotename> <branchname>                 //Pusht einen Branch auf die z.B. Github Repository```
+git push -U <remotename> <branchname>                 //Pusht einen Branch auf die z.B. Github Repository ```
