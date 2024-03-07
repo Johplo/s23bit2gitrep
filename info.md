@@ -1,7 +1,7 @@
 # Adminhandbuch
 
 ## git repositories
-<span style="color:blue">text </span>
+
 ```git init                                           //Startet eine repository
 git config --global user.email "<email>"              //Stellt die email für git-account ein
 git config --global user.name "<name>"                //Stellt benutzername für git-account ein
