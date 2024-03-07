@@ -2,8 +2,8 @@
 
 ## git repositories
 
-```git init
-git config --global user.email "<email>"
+```git init                                           # Startet eine repository
+git config --global user.email "<email>"              # 
 git config --global user.name "<name>"
 git add <filename>
 git status
