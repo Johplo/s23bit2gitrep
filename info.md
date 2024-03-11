@@ -18,3 +18,11 @@ git branch -M <branchname>                            //Wechselt auf den angegeb
 git remote add <remotename> <github repository link>  //Erstellt eine Remote verbindung zur z.B. Github Repository
 git push -U <remotename> <branchname>                 //Pusht einen Branch auf die z.B. Github Repository
 ```
+
+### von github pullen
+```
+//Wenn noch keine remote erstellt:
+git remote add <remotename> <github repository link>
+
+git pull <remotename> <branchname>
+```
