@@ -1,5 +1,10 @@
 # Adminhandbuch
 
+##Keygen
+```
+ssh-keygen -t ed25519
+```
+
 ## git repositories
 
 ```
