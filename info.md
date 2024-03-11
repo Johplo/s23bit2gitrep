@@ -2,7 +2,8 @@
 
 ## git repositories
 
-```git init                                           //Startet eine repository
+```
+git init                                           //Startet eine repository
 git config --global user.email "<email>"              //Stellt die email für git-account ein
 git config --global user.name "<name>"                //Stellt benutzername für git-account ein
 git add <filename>                                    //Fügt datein für den späteren commit ein
